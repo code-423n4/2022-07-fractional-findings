@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "nine9",
+  "address": "0x4e12ca60da418b5b2992300377be1a279f15a49e",
+  "risk": "3",
+  "title": "Arbitrary external calls cause the contract to self-destruct",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/24"
+}
