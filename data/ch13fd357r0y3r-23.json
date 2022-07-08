@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "ch13fd357r0y3r",
+  "address": "0xba23dfd7cccd3587a1b8909dd5bccfd92aceae6f",
+  "risk": "3",
+  "title": "Lack of Balance Checking when calling Withdrawl of ERC20, ERC721, ERC1155 and batchWithdrawERC1155",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/23"
+}
