@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "3",
+  "title": "migrateVault can be used to send certain tokens to address(0)",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/56"
+}
