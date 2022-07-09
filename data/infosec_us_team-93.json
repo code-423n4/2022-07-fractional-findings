@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "infosec_us_team",
+  "address": "0x8b4f80fa734da0c9a51d2895534decc0085e5ac3",
+  "risk": "3",
+  "title": "#4 (other) Drain ERC20s, ERC721s and ERC1155s from users.",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/93"
+}
