@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "0x",
+  "address": "0xF32B87Ce51144FCe946bB2429E934383fE52FE14",
+  "risk": "3",
+  "title": "DelegateCall to self destruct on implementation contract.",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/94"
+}
