@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "bbrho",
+  "address": "0xfacce30052b3c10ed9c2a9e65b7877fe109c7080",
+  "risk": "2",
+  "title": "`fallback()` function can bypass permission/auth checks imposed in `execute()`",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/47"
+}
