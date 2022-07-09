@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "tofunmi",
+  "address": "0x9af5ae89089c75f18ab01ece220763d97fd0dfce",
+  "risk": "2",
+  "title": "The _execute() function in vault checks the owner after the delegate call, but doesn't if the nonce has changed after the call ",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/82"
+}
