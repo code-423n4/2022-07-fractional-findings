@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "3",
+  "title": "`Migration.migrateFractions` relies on calculating total supply of the new vault rather than internal accounting - may result in loss of tokens",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/103"
+}
