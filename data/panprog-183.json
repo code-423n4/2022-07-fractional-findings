@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "Any fractions deposited into any proposal can be stolen at any time until it is commited",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/183"
+}
