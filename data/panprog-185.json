@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "Different ratio of ether/fractions after failed buyout leads to loss of ether and/or fractions (stuck in Migration contract)",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/185"
+}
