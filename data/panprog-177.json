@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "2",
+  "title": "Buyout price can be up to 1% less than it should leaving up to 1% of buyout price in eth locked in contract.",
+  "issueId": 177,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/177"
+}
