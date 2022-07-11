@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "Storage variables of Vault may be modified by delegatecall. Vault may be reinitialized by attacker.",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/171"
+}
