@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "ayeslick",
+  "address": "0x7cCdb6979cB9dFA867b842fAe8243b3B3fda444D",
+  "risk": "3",
+  "title": "_mintFractions() Is Callable Outside of deployVault() and settleFractions()",
+  "issueId": 298,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/298"
+}
