@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "slywaters",
+  "address": "0xcdc82d78cb49d4baa06d0988afdd27261b0667b2",
+  "risk": "3",
+  "title": "DANGEROUS USE OF DELEGATECALL CAN LEAD TO CHANGE OF CONTRACT OWNER",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/187"
+}
