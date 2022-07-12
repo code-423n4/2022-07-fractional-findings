@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "pashov",
+  "address": "0x1797c3bcebf8c858a916fcbbd0359f65f5484915",
+  "risk": "2",
+  "title": "No Transfer Ownership Pattern in Vault.sol",
+  "issueId": 258,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/258"
+}
