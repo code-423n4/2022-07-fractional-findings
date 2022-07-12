@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "Migration.join() and Migration.leave() can still work after unsucessful migration.",
+  "issueId": 250,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/250"
+}
