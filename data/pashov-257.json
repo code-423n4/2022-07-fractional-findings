@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "pashov",
+  "address": "0x1797c3bcebf8c858a916fcbbd0359f65f5484915",
+  "risk": "2",
+  "title": "Usage of tx.origin is discouraged",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/257"
+}
