@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "bin2chen",
+  "address": "0x4bb429d6c90d6449c2912b4faa687c7b4a6ace00",
+  "risk": "2",
+  "title": "contract Migration.join no detection of whether the proposal id has been created",
+  "issueId": 188,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/188"
+}
