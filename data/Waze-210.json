@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Waze",
+  "address": "0xb649642dee8e9e25b21cfc67da7dcf86828dd60d",
+  "risk": "2",
+  "title": "Send Ether with call instead of transfer ",
+  "issueId": 210,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/210"
+}
