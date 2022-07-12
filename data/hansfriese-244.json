@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "3",
+  "title": "An attacker can steal other's token with the price of 1 wei/token by proposing a migration of the same valut.",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/244"
+}
