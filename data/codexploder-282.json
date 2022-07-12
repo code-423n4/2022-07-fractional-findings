@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "codexploder",
+  "address": "0x4f9c70c7f0480ffedefd32565fb05efd23d53726",
+  "risk": "2",
+  "title": "User can join/leave proposal even after proposal end time",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/282"
+}
