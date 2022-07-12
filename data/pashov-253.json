@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "pashov",
+  "address": "0x1797c3bcebf8c858a916fcbbd0359f65f5484915",
+  "risk": "3",
+  "title": "controller address in FERC1155.sol can steal 100% of funds on all secondary sales ",
+  "issueId": 253,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/253"
+}
