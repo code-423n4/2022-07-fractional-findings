@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "smiling_heretic",
+  "address": "0xe180d626a4229c1f1c4cb0278ce071dbcc172adb",
+  "risk": "3",
+  "title": "Missing update of `buyoutInfo[_vault].ethBalance` in `buyout.cash` allows users to cash out way too much ETH",
+  "issueId": 207,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/207"
+}
