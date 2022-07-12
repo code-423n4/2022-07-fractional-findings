@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "2",
+  "title": "[PNM-006] Any buyout can be maliciously rejected by front-running",
+  "issueId": 289,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/289"
+}
