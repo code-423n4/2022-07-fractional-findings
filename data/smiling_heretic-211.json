@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "smiling_heretic",
+  "address": "0xe180d626a4229c1f1c4cb0278ce071dbcc172adb",
+  "risk": "3",
+  "title": "`migrateFractions` can be called many times by the same user",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/211"
+}
