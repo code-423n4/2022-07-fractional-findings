@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "3",
+  "title": "[PNM-004] Expired (and malicious) proposal can be re-active by a recent succeeded (and benign) buyout (on the same vault)",
+  "issueId": 286,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/286"
+}
