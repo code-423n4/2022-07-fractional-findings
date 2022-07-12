@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "sach1r0",
+  "address": "0x4b7cdd000bda3626bda2b1fbd215022b7985e02f",
+  "risk": "3",
+  "title": "Missing reentrancy guard on mint function",
+  "issueId": 197,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/197"
+}
