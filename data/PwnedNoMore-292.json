@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "3",
+  "title": "[PNM-002] `proposal.totalEth` and `proposal.totalFractions` may be increased without cost to a user.",
+  "issueId": 292,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/292"
+}
