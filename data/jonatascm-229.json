@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "jonatascm",
+  "address": "0xdb322cc0d1a46b0a27e1541c81004065bba22977",
+  "risk": "2",
+  "title": "Use safeTransfer and safeTransferFrom from `SafeERC20`",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/229"
+}
