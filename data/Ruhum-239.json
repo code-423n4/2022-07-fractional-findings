@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "FERC1155 royalty should be limited to prevent potential underflows",
+  "issueId": 239,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/239"
+}
