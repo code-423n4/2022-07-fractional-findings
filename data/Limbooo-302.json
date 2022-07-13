@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Limbooo",
+  "address": "0xc6f724a983644752b0c445f9e802475a50df666b",
+  "risk": "2",
+  "title": "In `Migration.sol#leave(),#withdrawContribution()` user funds under unreliable transfer behavior",
+  "issueId": 302,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/302"
+}
