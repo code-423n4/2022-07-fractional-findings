@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "sseefried",
+  "address": "0x033e21b02373489ff2f7a2c2f1b109a1bc6158ad",
+  "risk": "3",
+  "title": "Proposer can `start` a perpetual buyout which can only `end` if the auction succeeds and is not rejected",
+  "issueId": 306,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/306"
+}
