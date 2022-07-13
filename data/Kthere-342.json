@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Kthere",
+  "address": "0xe3D091E8122E65a0bD6a3B1bc1Ee12B7C4ebb61f",
+  "risk": "3",
+  "title": "Missing ETH transfer in Migration.sol and possible attack on `leave` and `join` function.",
+  "issueId": 342,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/342"
+}
