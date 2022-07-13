@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "s3cunda",
+  "address": "0x02c725c77e25f39996e823dd91304da158a45598",
+  "risk": "3",
+  "title": "Vault.sol: fallback function lack of merkle proof check",
+  "issueId": 315,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/315"
+}
