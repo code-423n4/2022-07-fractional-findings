@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "0xNazgul",
+  "address": "0x714af4c78135ec866a3cd34755bdb59cdb9b7246",
+  "risk": "3",
+  "title": "Vault Deployer Can DOS Users",
+  "issueId": 333,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/333"
+}
