@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "zzzitron",
+  "address": "0x50B6d717429F56527676d2431aAA5b3f0FA26a93",
+  "risk": "3",
+  "title": "Buyout Module: `ethBalance` is not properly updated",
+  "issueId": 566,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/566"
+}
