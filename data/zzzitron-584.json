@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "zzzitron",
+  "address": "0x50B6d717429F56527676d2431aAA5b3f0FA26a93",
+  "risk": "3",
+  "title": "Migration Module: The assets can be taken by a failed proposal",
+  "issueId": 584,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/584"
+}
