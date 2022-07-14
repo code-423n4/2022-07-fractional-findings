@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "ak1",
+  "address": "0xf7a08c2c341bde5e17103d4780d1b465011a2a31",
+  "risk": "3",
+  "title": "After migration, the caller can claim his/her fractional tokens again and again by calling the function migrateFractions ",
+  "issueId": 562,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/562"
+}
