@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "Buyout's buyFractions can be called multiple time reusing the same msg.value with Multicall",
+  "issueId": 644,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/644"
+}
