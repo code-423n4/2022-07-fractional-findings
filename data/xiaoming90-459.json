@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "xiaoming90",
+  "address": "0x536fbbae179fd77fae3e29b510f7b605bf45bc8f",
+  "risk": "3",
+  "title": "Malicious User Could Burn The Assets After A Successful Migration",
+  "issueId": 459,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/459"
+}
