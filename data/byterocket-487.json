@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "byterocket",
+  "address": "0xee680e5c2c5251261061f12ba3a5c470d2b6ae83",
+  "risk": "2",
+  "title": "Delegate call in `Vault#_execute` can alter Vault's ownership",
+  "issueId": 487,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/487"
+}
