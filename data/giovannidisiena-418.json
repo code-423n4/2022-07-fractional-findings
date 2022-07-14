@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "giovannidisiena",
+  "address": "0x00f922a3cafa76b7e08eccaf2d371b19e8b93a0c",
+  "risk": "3",
+  "title": "VAULT: STORAGE COLLISION ATTACK IN DELEGATECALL TO TARGET CONTRACT",
+  "issueId": 418,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/418"
+}
