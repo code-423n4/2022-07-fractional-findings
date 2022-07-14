@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Sm4rty",
+  "address": "0xc32c8c6e1c6f4fe66e10579f552a6b990b36e8b7",
+  "risk": "2",
+  "title": "Lack of Input Validation in transferOwnership function.",
+  "issueId": 516,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/516"
+}
