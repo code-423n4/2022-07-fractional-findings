@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "joestakey",
+  "address": "0xa9c2ce9dcc090af921fb0a1f874962f65a4b6d9b",
+  "risk": "3",
+  "title": "Optimizer bug with memory operations with Solidity `0.8.13`",
+  "issueId": 641,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/641"
+}
