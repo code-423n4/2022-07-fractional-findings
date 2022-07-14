@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "242",
+  "address": "0x8C67Cc76e6043d9DfE47Eb1a24d69cAf0Bc40bab",
+  "risk": "3",
+  "title": "[HIGH-01] Vault.sol: implementation contract, (deployed by VaultFactory) is left with unprotected unitialised init call that enables anyone to destroy the contract that disables all functionality.",
+  "issueId": 386,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/386"
+}
