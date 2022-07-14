@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "TrungOre",
+  "address": "0x1A4f547AeACB962B67Ec2fa35b803DA4F5f9b9D0",
+  "risk": "3",
+  "title": "Forget to check proposal has been committed or not when call `withdrawContribution()` can make attacker's proposal take another proposal's fund ",
+  "issueId": 492,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/492"
+}
