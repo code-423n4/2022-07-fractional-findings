@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "zzzitron",
+  "address": "0x50B6d717429F56527676d2431aAA5b3f0FA26a93",
+  "risk": "2",
+  "title": "BaseVault: hard-coded array length for hashes will limit the number of modules",
+  "issueId": 571,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/571"
+}
