@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "Migration can be impacted, by frontrunning the commit function call",
+  "issueId": 636,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/636"
+}
