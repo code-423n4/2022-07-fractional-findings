@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Twpony",
+  "address": "0x8f66af4fecfef97f4e3edd758e9f14ce098eec77",
+  "risk": "3",
+  "title": "delegatecall() modify merkleRoot, vault may lose all",
+  "issueId": 586,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/586"
+}
