@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "ayeslick",
+  "address": "0x7ccdb6979cb9dfa867b842fae8243b3b3fda444d",
+  "risk": "2",
+  "title": "BaseVault's Batch Functions do not validate if assets were transferred",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/354"
+}
