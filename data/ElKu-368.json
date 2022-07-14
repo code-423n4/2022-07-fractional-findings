@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "ElKu",
+  "address": "0x819681641e07e80f817a34f82400debcc2579b98",
+  "risk": "3",
+  "title": "Inability for fraction holders(except the first holder to cash out) to cash out after a successful buyout",
+  "issueId": 368,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/368"
+}
