@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "0xA5DF",
+  "address": "0x04dfb55f65e89aaf26bf198ed87fb77a8a2b7260",
+  "risk": "3",
+  "title": "`Buyout.cash` doesn't update the vault's balance, leading to Buyout's balance steal",
+  "issueId": 493,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/493"
+}
