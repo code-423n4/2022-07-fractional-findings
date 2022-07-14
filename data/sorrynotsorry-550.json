@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679c04cc7f2a14c0c03486d0287c4853",
+  "risk": "3",
+  "title": "DOS by Frontrunning Vault.sol's init() Function",
+  "issueId": 550,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/550"
+}
