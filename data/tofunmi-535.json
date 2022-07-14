@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "tofunmi",
+  "address": "0x9af5ae89089c75f18ab01ece220763d97fd0dfce",
+  "risk": "3",
+  "title": "Attacker takes over the vault through delegate call and the public nonce",
+  "issueId": 535,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/535"
+}
