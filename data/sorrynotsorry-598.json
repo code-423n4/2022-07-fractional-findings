@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679c04cc7f2a14c0c03486d0287c4853",
+  "risk": "2",
+  "title": "It's not possible to withdraw accidentally sent funds from the Vault contract.",
+  "issueId": 598,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/598"
+}
