@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "simon135",
+  "address": "0x7bfbabda21beebb17e284901bfc41e942f8128c8",
+  "risk": "2",
+  "title": "# an attacker can block stuff from the users from being able to do a buyout or sell fractoins or just main functions ,causing grief of users money and time",
+  "issueId": 572,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/572"
+}
