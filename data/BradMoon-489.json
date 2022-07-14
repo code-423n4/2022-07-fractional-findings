@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "BradMoon",
+  "address": "0x115cdafa75447213aa8c03f899ecefa519495f20",
+  "risk": "3",
+  "title": "The caller who have permission to call a module in Vault.sol can make all services in Vault.sol completely lost",
+  "issueId": 489,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/489"
+}
