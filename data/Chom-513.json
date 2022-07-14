@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "verifyProof can match any intermediate node or root because leaf is not hashed.",
+  "issueId": 513,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/513"
+}
