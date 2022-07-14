@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "Migration's withdrawContribution ignores the exchange between fractional tokens and ETH happened during Buyout attempt",
+  "issueId": 634,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/634"
+}
