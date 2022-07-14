@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "0xalpharush",
+  "address": "0x091da6d5845b18d4147b45472497ff91b768c132",
+  "risk": "3",
+  "title": "Any token approved for the base vault can be stolen",
+  "issueId": 563,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/563"
+}
