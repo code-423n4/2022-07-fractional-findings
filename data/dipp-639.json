@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "dipp",
+  "address": "0x675454ae78d25632fc26763fa9cb72a99cb0a36e",
+  "risk": "2",
+  "title": "Able to call ```withdrawContributions``` with any vaultId may lead to loss of funds",
+  "issueId": 639,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/639"
+}
