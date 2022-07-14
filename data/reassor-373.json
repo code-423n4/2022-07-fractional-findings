@@ -1,0 +1,9 @@
+{
+  "contest": 144,
+  "handle": "reassor",
+  "address": "0xd822554abe37b52e34d0c599ec828dc8c46721ff",
+  "risk": "3",
+  "title": "Plugin can change Vault's owner",
+  "issueId": 373,
+  "issueUrl": "https://github.com/code-423n4/2022-07-fractional-findings/issues/373"
+}
